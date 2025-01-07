@@ -48,5 +48,5 @@ export default tseslint.config({
   },
 })
 ```
-https://www.youtube.com/watch?v=yc8L7llaYKo
-https://www.npmjs.com/package/@react-google-maps/api
+- Video do Youtube: https://www.youtube.com/watch?v=yc8L7llaYKo
+- https://www.npmjs.com/package/@react-google-maps/api
